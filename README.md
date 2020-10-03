@@ -1,6 +1,6 @@
 # SwiftIO
 
-![](https://github.com/madmachineio/SwiftIO/raw/master/Assets/SwiftIO-Board.png)
+![SwiftIO Board](https://github.com/EmbeddedSwift/SwiftIO/blob/main/Assets/SwiftIO-Board.png?raw=true)
 
 A Swift framework for microcontrollers. The SwiftIO board provides a good way to learn Swift code. Write your code, download to your board, and you'll get the results in real time if you've had the circuit connected.
 
@@ -14,7 +14,7 @@ The SwiftIO library provides an easy access to communicate with the external cir
 
 - [MadMachine SDK & CLI](https://github.com/EmbeddedSwift/MadMachine)
 
-## Install
+## Build & install
 
 To install SwiftIO as a system-wide library just run the following commands:
 
@@ -41,3 +41,9 @@ mm library --install ./SwiftIO
 ```
 
 From now on you can build other MadMachine libraries or executables that depend on SwiftIO.
+
+
+## Pre-built releases
+
+You can download the pre-built SwiftIO library using the [releases](https://github.com/EmbeddedSwift/SwiftIO/releases) menu. 
+
